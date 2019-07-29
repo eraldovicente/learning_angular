@@ -2,7 +2,9 @@
 * Como o próprio autor da linguagem menciona na década de 90, época em que
 * a linguagem foi criada, a maioria das linguagens de script tinham escopo  
 * de função e JavaScript foi inspirada nelas.
+*
 * Retirado do Twitter @BrendanEich:
+*
 * "10 days did not leave time for block scope.
 * Also many "scripting languages" of that mid-90s 
 * era had few scopes & grew more later."
