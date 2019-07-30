@@ -8,3 +8,4 @@ var novoValor = arrayNumeros.map(function(num) {
 });
 
 console.log(novoValor);
+
